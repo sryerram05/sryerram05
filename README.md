@@ -1,7 +1,7 @@
 ## Siddarth Yerram
 [Portfolio](https://sryerram05.github.io/Resume) | [Contact Me](sryerram05@gmail.com)
 
-##Work
+### Work
 
 Developer & AI/ML researcher · Published IEEE author · High school senior at North Allegheny · Locked In
 
@@ -10,7 +10,7 @@ Developer & AI/ML researcher · Published IEEE author · High school senior at N
 - 🎮 Browser games on my [playground](https://sryerram05.github.io/playground.html)
 - Currently bulding my main portfolio...
 
-### Connect with me:
+
 ### Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/siddarthreddy-yerram-ba6362379" target="_blank" rel="noreferrer">
