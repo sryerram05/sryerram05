@@ -1,32 +1,23 @@
-## Hi there 👋
+## Siddarth Yerram
+[Portfolio](https://sryerram05.github.io/Resume)|[Contact Me](sryerram05@gmail.com)
 
-<!--
-**sryerram05/sryerram05** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##Work
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi, I'm Siddarth 👋
-
-Developer & AI/ML researcher · Published IEEE author · High school senior at North Allegheny
+Developer & AI/ML researcher · Published IEEE author · High school senior at North Allegheny · Locked In
 
 - 🔭 Building a computer-vision traffic light system
 - 📄 [Deep Learning-Based Pattern Recognition for Complex Equation Solving](https://ieeexplore.ieee.org/document/11545375)
 - 🎮 Browser games on my [playground](https://sryerram05.github.io/playground.html)
-- 🎾 State champion doubles player & founder of Steel City Tennis
+- Currently bulding my main portfolio...
 
 ### Connect with me:
+### Connect with me:
 <p align="left">
-  <a href="https://www.linkedin.com/in/siddarth-reddy-yerram-ba6362379/" target="_blank" rel="noreferrer">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+  <a href="https://www.linkedin.com/in/siddarthreddy-yerram-ba6362379" target="_blank" rel="noreferrer">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40"/>
+  </a>
+  <a href="https://www.instagram.com/sid.darthvader05" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" title="Instagram" width="40" height="40"/>
   </a>
 </p>
 
