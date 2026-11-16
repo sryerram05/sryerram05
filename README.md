@@ -1,5 +1,5 @@
 ## Siddarth Yerram
-[Portfolio](https://sryerram05.github.io/Resume)|[Contact Me](sryerram05@gmail.com)
+[Portfolio](https://sryerram05.github.io/Resume) | [Contact Me](sryerram05@gmail.com)
 
 ##Work
 
