@@ -16,9 +16,6 @@ Developer & AI/ML researcher · Published IEEE author · High school senior at N
   <a href="https://www.linkedin.com/in/siddarthreddy-yerram-ba6362379" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" title="LinkedIn" width="40" height="40"/>
   </a>
-  <a href="https://www.instagram.com/sid.darthvader05" target="_blank" rel="noreferrer">
-    <img src="https://cdn.simpleicons.org/instagram/E4405F" alt="Instagram" title="Instagram" width="40" height="40"/>
-  </a>
 </p>
 
 ### Languages and Tools:
